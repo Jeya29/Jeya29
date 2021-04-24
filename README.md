@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeyalakshmi_SM
+- 👋 Hi, I’m Jeyalakshmi S
 - 👀 I’m interested in Java Development
 - 🌱 I’m currently learning  AWS
 - 💞️ I’m looking to collaborate on ...
